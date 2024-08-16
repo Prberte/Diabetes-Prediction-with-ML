@@ -13,7 +13,6 @@ This repository contains a machine learning project focused on predicting diabet
 - [Modeling and Evaluation](#modeling-and-evaluation)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -101,10 +100,6 @@ The best model achieved an accuracy of **X%** on the test set. Detailed evaluati
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
